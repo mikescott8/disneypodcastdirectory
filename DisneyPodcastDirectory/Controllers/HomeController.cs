@@ -10,19 +10,30 @@ namespace DisneyPodcastDirectory.Controllers
     {
         public ActionResult Index()
         {
+            ViewBag.Message = "This Disney Podcast Directory " +
+                              "is an UNOFFICAL directory of Disney podcasts. It contains " +
+                              "both fan created podcasts and Official Disney podcasts.";
+
             return View();
         }
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Brief description of the site.";
 
             return View();
         }
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Ways to contact the site.";
+
+            return View();
+        }
+
+        public ActionResult Updates()
+        {
+            ViewBag.Message = "A quick rundown of changes to the site over it's history.";
 
             return View();
         }
