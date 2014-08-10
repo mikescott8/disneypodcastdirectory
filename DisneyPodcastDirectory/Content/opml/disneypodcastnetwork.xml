@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<opml version="1.1">
+	<head>
+		<title>disneypodcastnetwork.opml</title>
+		<dateCreated>Fri, 20 Oct 2006 02:28:59 GMT</dateCreated>
+		<dateModified>Tue, 22 Jan 2008 02:29:20 GMT</dateModified>
+		<ownerName>Mike "MikeScott8" Hamilton</ownerName>
+		<ownerEmail>mike@mikescott8.net</ownerEmail>
+		<expansionState></expansionState>
+		<vertScrollState>1</vertScrollState>
+		<windowTop>291</windowTop>
+		<windowLeft>588</windowLeft>
+		<windowBottom>631</windowBottom>
+		<windowRight>1194</windowRight>
+		</head>
+	<body>
+		<outline text="Check out http://www.disneypodcastnet.com"/>
+		<outline text="Listed in the same order as found at the DPN forums"/>
+		<outline text="The Meandering Mouse (Added 2/13/2006)">
+			<outline text="Meandering Mouse and Meandering Mouse Club TV-(AUDIO and VIDEO) Disney Park Fun" type="rss" sortname="01a" xmlUrl="http://www.meanderingmouse.com/rss.xml"/>
+			<outline text="Meandering Mouse Club TV Videocast" type="rss" sortname="01b" xmlUrl="http://www.meanderingmouse.com/rss2.xml"/>
+			<outline text="The Meandering Mouse Podcast - Disney Park Adventures (AUDIO ONLY)" type="rss" sortname="01c" xmlUrl="http://www.meanderingmouse.com/rss3.xml"/>
+			<outline text="MeanderingMouse.com Website" type="link" htmlUrl="http://www.meanderingmouse.com"/>
+			<outline text="Meander On Store" type="link" htmlUrl="http://www.printfection.com/meanderingmouse"/>
+			<outline text="Show Archive" type="link" htmlUrl="http://meanderingmouse.libsyn.com"/>
+		</outline>
+		<outline text="Inside the DPN (Added 10/5/2006)">
+			<outline text="Inside the DPN" type="rss" sortname="02" xmlUrl="http://www.dpn.mrmarkstudios.com/?feed=podcast"/>
+			<outline text="Inside the DPN Website" type="link" htmlUrl="http://www.dpn.mrmarkstudios.com"/>
+			<outline text="Inside the DPN Forum" type="link" htmlUrl="http://www.disneypodcastnet.com/viewforum.php?f=41"/>
+		</outline>
+		<outline text="Trapped On Vaction (Added 10/05/2005)">
+			<outline text="Trapped On Vaction" type="rss" sortname="03" xmlUrl="http://tov.libsyn.com/rss"/>
+			<outline text="TrappedOnVacation.com Website" type="link" htmlUrl="http://www.trappedonvacation.com"/>
+		</outline>
+		<outline text="Beyond Main Street (Added 11/21/2005)">
+			<outline text="Beyond Main Street Video" type="rss" sortname="04a" xmlUrl="http://extremefilms.libsyn.com/rss"/>
+			<outline text="Beyond Main Street Audio" type="rss" sortname="04b" xmlUrl="http://feeds.feedburner.com/BeyondMainStreet"/>
+			<outline text="In Your Ears Experience" type="rss" sortname="04c" xmlUrl="http://feeds.feedburner.com/InYourEarsExperience"/>
+			<outline text="BeyondMainStreet.com Website" type="link" htmlUrl="http://www.beyondmainstreet.com"/>
+			<outline text="In Your Ears Experience Website" type="link" htmlUrl="http://inyourearsexperience.blogspot.com"/>
+		</outline>
+		<outline text="Bringing Disneyland Home (Added 2/18/2006)">
+			<outline text="Bringing Disneyland Home" type="rss" sortname="05" xmlUrl="http://www.oakfan.com/BDHVodcast.xml"/>
+			<outline text="OakFan.com Website" type="link" htmlUrl="http://www.oakfan.com"/>
+		</outline>
+		<outline text="MiceCast (added 3/10/2006) WARNING: Not always family safe">
+			<outline text="MiceCast" type="rss" sortname="07" xmlUrl="http://feeds.feedburner.com/Micecast"/>
+			<outline text="MiceCast.com Website" type="link" htmlUrl="http://www.micecast.com"/>
+		</outline>
+		<outline text="The Big D Videocast (Added 4/27/2006)">
+			<outline text="The Big D Videocast" type="rss" sortname="08a" xmlUrl="http://chreestopher.libsyn.com/rss"/>
+			<outline text="The Big D in HD Videocast" type="rss" sortname="08b" xmlUrl="http://feeds.feedburner.com/TheBigDInHd"/>
+			<outline text="Single Rider" type="rss" sortname="08c" xmlUrl="http://feeds.feedburner.com/TBD-SingleRider"/>
+			<outline text="TheBigDPodcast.com Website" type="link" htmlUrl="http://www.thebigdpodcast.com"/>
+		</outline>
+		<outline text="Imagineering My Way (Added 4/21/2006)">
+			<outline text="Imagineering My Way"  type="rss" sortname="09" xmlUrl="http://imagineeringmyway.libsyn.com/rss"/>
+			<outline text="ImagineeringMyWay.com Website" type="link" htmlUrl="http://www.imagineeringmyway.com"/>
+			<outline text="Imagineering My Way Store" type="link" htmlUrl="http://www.cafepress.com/imw2"/>
+		</outline>
+		<outline text="At the Main Street Cinema VideCast (Added 1/27/2007)">
+			<outline text="At the Main Street Cinema VidCast" type="rss" sortname="10" xmlUrl="http://atthecinema.libsyn.com/rss"/>
+			<outline text="At the Main Street Cinema Website" type="link" htmlUrl="http://atthecinema.libsyn.com/"/>
+		</outline>
+		<!--
+		<outline text="The Mickey Room (Added 8/15/2006)">
+			<outline text="The Mickey Room" type="rss" sortname="11" xmlUrl="http://www.themickeyroom.libsyn.com/rss"/>
+			<outline text="The Mickey Room Website" type="link" htmlUrl="http://www.themickeyroom.com"/>
+		</outline>
+		<outline text="Walt's Girls (Added 10/28/2007)">
+			<outline text="Walt's Girls Podcast" type="rss" sortname="12" xmlUrl="http://waltsgirls.com/podcasts-only/rss2.aspx"/>
+			<outline text="Walt's Girls Site" type="link" htmlUrl="http://www.waltsgirls.com/"/>
+		</outline>
+		-->
+		<outline text="Magic Never Ends (Added 7/20/2007)">
+			<outline text="Magic Never Ends Podcast Feed (podcast category posts only)" type="rss" sortname="13a" xmlUrl="http://magicneverends.com/blog/category/podcast/feed"/>
+			<outline text="Magic Never Ends Blog Feed (includes all posts)" type="rss" sortname="13b" xmlUrl="http://magicneverends.com/blog/feed/"/>
+			<outline text="Magic Never Ends Website" type="link" htmlUrl="http://magicneverends.com"/>
+		</outline>
+		<outline text="The Adventures of a Teenage Disney Geek (Added 7/18/2007)">
+			<outline text="The Adventures of a Teenage Disney Geek Podcast" type="rss" sortname="14" xmlUrl="http://teenagedisneygeek.libsyn.com/rss"/>
+			<outline text="The Adventures of a Teenage Disney Geek Website" type="link" htmlUrl="http://teenagedisneygeek.libsyn.com"/>
+		</outline>
+	</body>
+	</opml>

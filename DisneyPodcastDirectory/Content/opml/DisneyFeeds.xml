@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+	<head>
+		<title>Michael subscriptions in Google Reader</title>
+	</head>
+	<body>
+
+		<outline title="flickr-discussions" text="flickr-discussions">
+			<outline text="After the Mouse.com -"
+                title="After the Mouse.com -" type="rss"
+                xmlUrl="http://afterthemouse.com/rss.xml" htmlUrl="http://afterthemouse.com"/>
+			<outline
+                text="Down Town Disney Lego Dragon's Discussion Feed"
+                title="Down Town Disney Lego Dragon's Discussion Feed"
+                type="rss"
+                xmlUrl="http://api.flickr.com/services/feeds/groups_discuss.gne?id=87257795@N00&amp;format=rss_200" htmlUrl="http://www.flickr.com/groups/87257795@N00/"/>
+
+		</outline>
+
+		<outline title="muppets" text="muppets">
+			<outline text="Mostly Muppet Dot Com"
+                title="Mostly Muppet Dot Com" type="rss"
+                xmlUrl="http://www.mostlymuppet.com/feed/" htmlUrl="http://www.mostlymuppet.com"/>
+			<outline text="PuppetVision Blog" title="PuppetVision Blog"
+                type="rss"
+                xmlUrl="http://feeds.feedburner.com/blogspot/XVGw" htmlUrl="http://puppetvision.blogspot.com/"/>
+			<outline text="The Muppet Newsflash"
+                title="The Muppet Newsflash" type="rss"
+                xmlUrl="http://feeds.feedburner.com/blogspot/xbSU" htmlUrl="http://www.muppetnewsflash.com/"/>
+		</outline>
+
+		<outline title="animation--comics" text="animation--comics">
+			<outline
+                text="ASIFA-Hollywood Animation Archive Project Blog"
+                title="ASIFA-Hollywood Animation Archive Project Blog"
+                type="rss"
+                xmlUrl="http://www.animationarchive.org/atom.xml" htmlUrl="http://www.animationarchive.org/"/>
+			<outline text="Luxo" title="Luxo" type="rss"
+                xmlUrl="http://pixaranimation.blogspot.com/atom.xml" htmlUrl="http://pixaranimation.blogspot.com/"/>
+			<outline text="TAG Blog" title="TAG Blog" type="rss"
+                xmlUrl="http://animationguildblog.blogspot.com/atom.xml" htmlUrl="http://animationguildblog.blogspot.com/"/>
+		</outline>
+
+		<outline title="misc" text="misc">
+			<outline text="LOST -- The Tail Section"
+                title="LOST -- The Tail Section" type="rss"
+                xmlUrl="http://feeds.feedburner.com/Lost--TheTailSection" htmlUrl="http://www.thetailsection.com/"/>
+			<outline text="Lostpedia Blog" title="Lostpedia Blog"
+                type="rss"
+                xmlUrl="http://blog.lostpedia.com/feeds/posts/default" htmlUrl="http://blog.lostpedia.com/"/>
+		</outline>
+
+		<outline title="jobs" text="jobs">
+			<outline text="Disney jobs - Indeed.com"
+                title="Disney jobs - Indeed.com" type="rss"
+                xmlUrl="http://rss.indeed.com/rss?q=Disney&amp;l=&amp;from=rss" htmlUrl="http://www.indeed.com/jobs?q=Disney&amp;l=&amp;from=rss"/>
+			<outline
+                text="Jobster.com: Latest jobs matching: disney in Orlando, FL"
+                title="Jobster.com: Latest jobs matching: disney in Orlando, FL"
+                type="rss"
+                xmlUrl="http://www.jobster.com/find/US/jobs/in/Orlando%2C+FL/for/disney/page/1?source=search_results&amp;source_type=any&amp;r=25&amp;d=28&amp;rss=1&amp;s=b" htmlUrl="http://www.jobster.com/find/US/jobs/in/Orlando%2C+FL/for/disney/page/1?d=28&amp;amp;hbxcmp=feed&amp;amp;hbxsrc=rss_search_results&amp;amp;r=25&amp;amp;rss=1&amp;amp;s=b&amp;amp;source=search_results&amp;amp;source_type=any"/>
+		</outline>
+
+		<outline title="meetup-groups" text="meetup-groups">
+			<outline text="Events - The Disney and WDW Group"
+                title="Events - The Disney and WDW Group" type="rss"
+                xmlUrl="http://disney.meetup.com/53/events/rss/The+Florida+Disney+and+Walt+Disney+World+Meetup+Group/" htmlUrl="http://disney.meetup.com/53/calendar/"/>
+		</outline>
+
+		<outline title="disney" text="disney">
+			<outline text="2006MouseFest at Yahoo! Groups"
+                title="2006MouseFest at Yahoo! Groups" type="rss"
+                xmlUrl="http://rss.groups.yahoo.com/group/2006MouseFest/rss" htmlUrl="http://groups.yahoo.com/group/2006MouseFest/"/>
+			<outline text="2719 HYPERION" title="2719 HYPERION"
+                type="rss"
+                xmlUrl="http://2719hyperion.blogspot.com/feeds/posts/default" htmlUrl="http://www.2719hyperion.com/"/>
+			<outline text="alt.disney.vacation-club Google Group"
+                title="alt.disney.vacation-club Google Group" type="rss"
+                xmlUrl="http://groups.google.com/group/alt.disney.vacation-club/feed/rss_v2_0_msgs.xml" htmlUrl="http://groups.google.com/group/alt.disney.vacation-club"/>
+			<outline text="Blue Sky Disney" title="Blue Sky Disney"
+                type="rss"
+                xmlUrl="http://blueskydisney.blogspot.com/feeds/posts/default" htmlUrl="http://blueskydisney.blogspot.com/"/>
+			<outline
+                text="Burnsland: Recent Updates for Disney pictures, railroads, and more"
+                title="Burnsland: Recent Updates for Disney pictures, railroads, and more"
+                type="rss"
+                xmlUrl="http://www.burnsland.com/burnsland.xml" htmlUrl="http://www.burnsland.com"/>
+			<outline text="Celebration, Florida"
+                title="Celebration, Florida" type="rss"
+                xmlUrl="http://celebrationfl.blogspot.com/atom.xml?bsuser=celebrationfl" htmlUrl="http://celebrationfl.blogspot.com"/>
+			<outline text="CoasterBuzz News" title="CoasterBuzz News"
+                type="rss"
+                xmlUrl="http://www.coasterbuzz.com/rss/news.aspx" htmlUrl="http://www.coasterbuzz.com/news.htm"/>
+			<outline text="Colin's year in Florida"
+                title="Colin's year in Florida" type="rss"
+                xmlUrl="http://colinatdisney.wordpress.com/feed/" htmlUrl="http://colinatdisney.wordpress.com"/>
+			<outline text="Davelandblog" title="Davelandblog" type="rss"
+                xmlUrl="http://davelandblog.blogspot.com/atom.xml" htmlUrl="http://davelandblog.blogspot.com/"/>
+			<outline text="Disney Cruise Line News"
+                title="Disney Cruise Line News" type="rss"
+                xmlUrl="http://www.dclnews.com/rss.aspx" htmlUrl="http://dclnews.com/RSSFeeds.aspx?SiteID=2"/>
+			<outline text="Disney Diaries" title="Disney Diaries"
+                type="rss"
+                xmlUrl="http://feeds.feedburner.com/blogspot/DJGo" htmlUrl="http://disneydiaries.blogspot.com/"/>
+			<outline text="Disney Gossip" title="Disney Gossip"
+                type="rss"
+                xmlUrl="http://feeds.feedburner.com/DisneyGossip" htmlUrl="http://www.disneygossip.com/"/>
+			<outline text="disneycastmembers2 at Yahoo! Groups"
+                title="disneycastmembers2 at Yahoo! Groups" type="rss"
+                xmlUrl="http://rss.groups.yahoo.com/group/disneycastmembers2/rss" htmlUrl="http://groups.yahoo.com/group/disneycastmembers2/"/>
+			<outline text="DisneyWorldTrivia.com - Everything Disney"
+                title="DisneyWorldTrivia.com - Everything Disney"
+                type="rss"
+                xmlUrl="http://www.disneyworldtrivia.com/rss/dwt_allarticles.xml" htmlUrl="http://www.disneyworldtrivia.com"/>
+			<outline text="GORILLAS DON'T BLOG"
+                title="GORILLAS DON'T BLOG" type="rss"
+                xmlUrl="http://gorillasdontblog.blogspot.com/atom.xml" htmlUrl="http://gorillasdontblog.blogspot.com/"/>
+			<outline text="Inside the Magic" title="Inside the Magic"
+                type="rss"
+                xmlUrl="http://distantcreations.com/insidethemagic/inside.xml" htmlUrl="http://www.distantcreations.com/insidethemagic"/>
+			<outline text="JimHillMedia.com" title="JimHillMedia.com"
+                type="rss"
+                xmlUrl="http://www.pheedo.com/f/jim_hill_mediacom" htmlUrl="http://jimhillmedia.com/blogs/default.aspx"/>
+			<outline text="LaughingPlace.com: Disney News"
+                title="LaughingPlace.com: Disney News" type="rss"
+                xmlUrl="http://www.laughingplace.com/XML-DailyNews.asp" htmlUrl="http://LaughingPlace.com"/>
+			<outline text="Magical Mountain Disney News"
+                title="Magical Mountain Disney News" type="rss"
+                xmlUrl="http://www.magicalmountain.net/xml/rssfeed.xml" htmlUrl="http://www.magicalmountain.net/WDWNews.asp"/>
+			<outline text="Mickey News" title="Mickey News" type="rss"
+                xmlUrl="http://www.MickeyNews.com/XML/Feed.asp" htmlUrl="http://www.MickeyNews.com"/>
+			<outline text="Micoofy" title="Micoofy" type="rss"
+                xmlUrl="http://www.micoofy.com/index.xml" htmlUrl="http://www.micoofy.com/"/>
+			<outline text="Mousekingdom Blog" title="Mousekingdom Blog"
+                type="rss" xmlUrl="http://blog.mousekingdom.com/feed/" htmlUrl="http://blog.mousekingdom.com"/>
+			<outline text="My Weekly Disneyland Resort Photo Blog"
+                title="My Weekly Disneyland Resort Photo Blog"
+                type="rss"
+                xmlUrl="http://cinemazement.com/blog/?feed=rss2" htmlUrl="http://cinemazement.com/blog"/>
+			<outline text="NFFC Events" title="NFFC Events" type="rss"
+                xmlUrl="http://www.nffc.org/news/nffc_rss.asp?type=3" htmlUrl="http://www.nffc.org/"/>
+			<outline text="NFFC News" title="NFFC News" type="rss"
+                xmlUrl="http://www.nffc.org/news/nffc_rss.asp?type=1" htmlUrl="http://www.nffc.org/"/>
+			<outline text="Passport to Dreams Old &amp; New"
+                title="Passport to Dreams Old &amp; New" type="rss"
+                xmlUrl="http://passport2dreams.blogspot.com/feeds/posts/default" htmlUrl="http://passport2dreams.blogspot.com/"/>
+			<outline text="Re-Imagineering" title="Re-Imagineering"
+                type="rss"
+                xmlUrl="http://imagineerebirth.blogspot.com/atom.xml?bsuser=imagineerebirth" htmlUrl="http://imagineerebirth.blogspot.com"/>
+			<outline text="Scam City version 9.0"
+                title="Scam City version 9.0" type="rss"
+                xmlUrl="http://www.scamcity.co.uk/journal/wp-atom.php" htmlUrl="http://www.scamcity.co.uk/journal"/>
+			<outline text="Stuff from the Park"
+                title="Stuff from the Park" type="rss"
+                xmlUrl="http://matterhorn1959.blogspot.com/atom.xml?bsuser=matterhorn1959" htmlUrl="http://matterhorn1959.blogspot.com"/>
+			<outline text="The Disney Blog" title="The Disney Blog"
+                type="rss"
+                xmlUrl="http://thedisneyblog.typepad.com/tdb/atom.xml" htmlUrl="http://www.thedisneyblog.com/tdb/"/>
+			<outline text="The Disney Frontier Blog"
+                title="The Disney Frontier Blog" type="rss"
+                xmlUrl="http://feeds.feedburner.com/disneycontentblog" htmlUrl="http://www.disneyfrontier.com"/>
+			<outline text="The Ghost Relations Department"
+                title="The Ghost Relations Department" type="rss"
+                xmlUrl="http://ghostrelationsdept.blogspot.com/feeds/posts/default" htmlUrl="http://ghostrelationsdept.blogspot.com/"/>
+			<outline
+                text="The Life and Times of Sleeping Beauty's Sister"
+                title="The Life and Times of Sleeping Beauty's Sister"
+                type="rss"
+                xmlUrl="http://feeds.feedburner.com/sleepingbeautyssister" htmlUrl="http://sleepingbeautyssister.blogspot.com/"/>
+			<outline text="The MousePod" title="The MousePod" type="rss"
+                xmlUrl="http://www.pocketsymphony.com/mousepod/mousepod.xml" htmlUrl="http://mousepod.com"/>
+			<outline text="Theme Park Insider"
+                title="Theme Park Insider" type="rss"
+                xmlUrl="http://www.themeparkinsider.com/news/rss.xml" htmlUrl="http://www.themeparkinsider.com"/>
+			<outline text="Tribe.net: Disney" title="Tribe.net: Disney"
+                type="rss" xmlUrl="http://waltdisney.tribe.net/rss" htmlUrl="http://waltdisney.tribe.net"/>
+			<outline text="Tribe.net: Disney World Fans"
+                title="Tribe.net: Disney World Fans" type="rss"
+                xmlUrl="http://waltdisneyworld.tribe.net/rss" htmlUrl="http://waltdisneyworld.tribe.net"/>
+			<outline text="Tribe.net: Disneyland"
+                title="Tribe.net: Disneyland" type="rss"
+                xmlUrl="http://happiestplaceonearth.tribe.net/rss" htmlUrl="http://happiestplaceonearth.tribe.net"/>
+			<outline text="Tribe.net: Pixar Animation Studios"
+                title="Tribe.net: Pixar Animation Studios" type="rss"
+                xmlUrl="http://pixar.tribe.net/rss" htmlUrl="http://pixar.tribe.net"/>
+			<outline text="Tribe.net: Save Disney"
+                title="Tribe.net: Save Disney" type="rss"
+                xmlUrl="http://savedisney.tribe.net/rss" htmlUrl="http://SaveDisney.tribe.net"/>
+			<outline text="Tribe.net: The Mickey Mouse Club"
+                title="Tribe.net: The Mickey Mouse Club" type="rss"
+                xmlUrl="http://www.tribe.net/template/pub%2Crss%2CTribe.vm?tribeid=c66ab50e-ed8d-440f-a70e-ddb74467263d" htmlUrl="http://tribes.tribe.net/mickeymouse"/>
+			<outline text="UltimateDisney.com"
+                title="UltimateDisney.com" type="rss"
+                xmlUrl="http://www.ultimatedisney.com/udfeed.xml" htmlUrl="http://www.ultimatedisney.com"/>
+			<outline text="videblog" title="videblog" type="rss"
+                xmlUrl="http://videblog-bearride.blogspot.com/atom.xml" htmlUrl="http://videblog-bearride.blogspot.com/"/>
+			<outline text="Walt Disney - Topix.net"
+                title="Walt Disney - Topix.net" type="rss"
+                xmlUrl="http://www.topix.net/rss/who/walt-disney.xml" htmlUrl="http://www.topix.com/who/walt-disney"/>
+			<outline text="waltdisneyworldcastmembers at Yahoo! Groups"
+                title="waltdisneyworldcastmembers at Yahoo! Groups"
+                type="rss"
+                xmlUrl="http://rss.groups.yahoo.com/group/waltdisneyworldcastmembers/rss" htmlUrl="http://groups.yahoo.com/group/waltdisneyworldcastmembers/"/>
+		</outline>
+
+		<outline text="Walt Disney Company (DIS)"
+            title="Walt Disney Company (DIS)" type="rss"
+            xmlUrl="http://messages.finance.yahoo.com/Stocks_(A_to_Z)/Stocks_W/rss?bn=5217" htmlUrl="http://messages.finance.yahoo.com/Stocks_%28A_to_Z%29/Stocks_W/forumview?bn=5217"/>
+
+	</body>
+</opml>

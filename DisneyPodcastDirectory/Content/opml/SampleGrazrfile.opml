@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.1">
+  <head>
+    <title>Grazr Examples</title>
+    <dateModified>Mon, 29 May 2006 8:05:25 -0500</dateModified>
+    <ownerName>Adam Green - Grazr.com</ownerName>
+  </head>
+  <body>
+  	<outline type="include" text="What is Grazr?" url="http://grazr.com/faq.xml" /> 
+    	<outline text="Sample Grazrs on Web Pages" > 
+		<outline text="Grazr is used on web pages to display many types of information, in many different languages. Here are just a few of the early users of Grazr." />
+		<outline type="link" text="Alsace Blog" htmlUrl="http://elsassexpat.blogs.com/alsace/2006/05/servezvous_tout.html" /> 
+		<outline type="link" text="James Corbett" htmlUrl="http://eirepreneur.blogs.com/" /> 
+		<outline type="link" text="James E. Lee" htmlUrl="http://alwaysaskwhy.com/jameselee/blog/" /> 
+		<outline type="link" text="Library Views" htmlUrl="http://libraryviews.blogsome.com/2006/04/21/311/" /> 
+		<outline type="link" text="Marshall Kirkpatrick" htmlUrl="http://marshallk.com/" /> 	
+	</outline>
+	<outline text="Blog Feeds" > 
+		<outline text="When Grazr is used to display the RSS or Atom feed from a blog, it takes on the role of an online aggregator." />
+		<outline type="rss" text="BoingBoing" xmlUrl="http://feeds.feedburner.com/boingboing/iBag" /> 
+		<outline type="rss" text="Engadget" xmlUrl="http://engadget.com/rss.xml" /> 
+		<outline type="rss" text="TechCrunch" xmlUrl="http://feeds.feedburner.com/Techcrunch" /> 
+	</outline>	
+	<outline text="Personal Reading Lists" > 
+		<outline text="Many people publish the list of blog feeds they read regularly in an OPML file. If they change the reading list at a later time, anyone viewing it in Grazr will automatically see the new list of blogs." />
+		<outline type="include" text="All About reading lists by James E. Lee" xmlUrl="http://alwaysaskwhy.com/jameselee/outlines/all-about-readinglists.xml" />
+		<outline type="include" text="Robert Scoble's Blogroll" url="http://www.bloglines.com/export?id=scobleizer" /> 
+		<outline type="include" text="Alex Barnett's Blogroll" xmlUrl="http://www.extremepodcasting.com/opml/blogroll.xml" /> 		
+	</outline>
+	<outline text="Dynamic Reading Lists" > 
+		<outline text="Some reading lists are updated frequently, often by running programs on a set schedule. Others are updated on a daily schedule by human editors." />
+		<outline type="include" text=" Current Blogs on Techmeme (updated hourly)" xmlUrl="http://mashup.darwinianweb.com/projects/tmblogs/tmopml.xml" /> 
+		<outline type="include" text="Share Your OPML - Top 100 Blogs (updated hourly)" xmlUrl="http://share.opml.org/opml/top100.opml" /> 
+		<outline type="include" text="Top 10 Sources - Sites of the Day" xmlUrl="http://toptensources.com/home/?display=.opml" /> 		
+	</outline>
+	<outline text="Global Outlines" > 
+		<outline text="A global outline contains links to multiple outlines maintained by different people on different servers. Navigating through one with Grazr is the outline equivalent of browsing web pages." /> 
+		<outline type="include" text="Irish Open Directory" xmlUrl="http://www.opmlworkstation.com/create/public/jcorbett/opml/OpenIrishDirectory/OpenIrishDirectory.opml" /> 
+		<outline type="include" text="Scripting News Community Directory" xmlUrl="http://hosting.opml.org/dave/scriptingNewsDirectory.opml" /> 
+	</outline>
+   	<outline text="News Sites" > 
+		<outline type="rss" text="CNET" xmlUrl="http://news.com.com/2547-1_3-0-20.xml" /> 		
+		<outline type="rss" text="Google" xmlUrl="http://news.google.com/?ned=us&amp;topic=t&amp;output=rss" /> 
+		<outline type="rss" text="NY Times" xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/Technology.xml" /> 	
+		<outline type="rss" text="Yahoo" xmlUrl="http://rss.news.yahoo.com/rss/tech" /> 		
+	</outline>
+	<outline text="Search Engines" > 
+		<outline text="The dynamic results from a search engine can be viewed in Grazr. For example, these links perform a search for the words 'Web 2.0'." /> 
+		<outline type="rss" text="Google Blog Search" xmlUrl="http://blogsearch.google.com/blogsearch_feeds?hl=en&amp;q=web+2.0&amp;ie=utf-8&amp;num=10&amp;output=rss" /> 	
+		<outline type="rss" text="MSN Search" xmlUrl="http://search.msn.com/results.aspx?q=web+2.0&amp;format=rss&amp;FORM=RSRE" /> 		
+		<outline type="include" text="OPML Search" xmlUrl="http://opmlsearch.com/Default.aspx?Search=web+2.0&amp;Results=rss,opml&amp;SearchURL=&amp;display=opml" /> 	
+		<outline type="include" text="Tagjag" xmlUrl="http://tagjag.com/all/web-2.-0/opml" /> 
+	</outline>	
+   	<outline text="Media" > 
+		<outline type="rss" text="YouTube Videos" xmlUrl="http://youtube.com/rss/global/top_rated.rss" /> 	
+		<outline type="rss" text="Flickr Photos" xmlUrl="http://www.flickr.com/services/feeds/photos_public.gne?tags=kitten&amp;format=rss_200" /> 
+		<outline type="rss" text="Podcasts" xmlUrl="http://www.ipodder.org/xml/rss.xml" /> 	
+		<outline type="rss" text="AOL Music Now - Top Songs" xmlUrl="http://aol.musicnow.com/rss/topsongs/?limit=20" /> 
+	</outline>
+   	<outline text="Social Networking Sites" > 
+		<outline type="rss" text="Delicious - Popular" xmlUrl="http://del.icio.us/rss/popular" /> 		
+		<outline type="rss" text="Digg" xmlUrl="http://digg.com/rss/index.xml" /> 
+		<outline type="rss" text="Reddit" xmlUrl="http://reddit.com/.rss" /> 	
+		<outline type="rss" text="Slashdot" xmlUrl="http://rss.slashdot.org/Slashdot/slashdot" /> 		
+	</outline>	
+   	<outline text="Memehunters" > 
+		<outline type="rss" text="Techmeme" xmlUrl="http://www.techmeme.com/index.xml" /> 		
+		<outline type="rss" text="Tailrank" xmlUrl="http://rss.tailrank.com/posts" /> 
+		<outline type="rss" text="Megite" xmlUrl="http://feeds.feedburner.com/MegiteTechnology" /> 	
+	</outline>	
+   	<outline text="Ecommerce" > 
+		<outline type="rss" text="eBay" xmlUrl="http://rss.api.ebay.com/ws/rssapi?FeedName=SearchResults&amp;siteId=0&amp;language=en-US&amp;output=RSS20&amp;fsop=1&amp;sacat=3736&amp;fsoo=1&amp;satitle=computer" /> 		
+		<outline type="rss" text="Amazon" xmlUrl="http://xml.amazon.com/onca/xml3?mode=books&amp;bcm=Books%3A%20Computers%20%26%20Internet&amp;t=webservices-20&amp;dev-t=amznRss&amp;type=lite&amp;page=1&amp;ct=text/xml&amp;sort=+salesrank&amp;f=http://xml.amazon.com/xsl/xml-rss091.xsl&amp;BrowseNodeSearch=5" /> 
+		<outline type="rss" text="Buy.com" xmlUrl="http://www.buy.com/rss/feed.asp?loc=14982&amp;grp=2" /> 	
+		<outline type="rss" text="Craig's List" xmlUrl="http://www.craigslist.org/sys/index.rss" /> 			
+	</outline>		
+   	<outline text="Library Management" > 
+		<outline text="Denver Public Library" > 
+			<outline type="rss" text="Current Job Openings" xmlUrl="http://denverlibrary.org/newsfeeds/dplfeeds/dpl_jobs.xml" /> 
+			<outline type="rss" text="Latest DPL News" xmlUrl="http://denverlibrary.org/newsfeeds/dplfeeds/dpl_news.xml" /> 
+			<outline type="rss" text="DPL Newsletters" xmlUrl="http://denverlibrary.org/newsfeeds/dplfeeds/dpl_newsletters.xml" /> 
+			<outline type="rss" text="Staff Recommendations" xmlUrl="http://denverlibrary.org/newsfeeds/dplfeeds/dpl_recommendations.xml" /> 
+			<outline type="rss" text="New and Updated Web Content " xmlUrl="http://denverlibrary.org/newsfeeds/dplfeeds/dpl_new_content.xml" /> 
+		</outline>	
+		<outline text="Glasgow University Library" > 
+			<outline type="rss" text="Latest publications in the Glasgow ePrints Service" xmlUrl="http://eprints.gla.ac.uk/perl/latest_tool?output=rss" /> 		
+			<outline type="rss" text="Library News" xmlUrl="http://www.lib.gla.ac.uk/rss/gulnews.xml" /> 
+		</outline>			
+		<outline text="Library Blogs" > 
+			<outline type="rss" text="Library Clips" xmlUrl="http://feeds.feedburner.com/LibraryClips" /> 		
+			<outline type="rss" text="Library Stuff" xmlUrl="http://www.librarystuff.net/index.rdf" /> 
+		</outline>			
+	</outline>	
+  	<outline text="Reference" > 
+		<outline type="include" text="Constitution of the United States" url="http://hosting.opml.org/ambimb/Constitution.opml" />
+		<outline type="include" text="Dewey Decimal System" url="http://hosting.opml.org/LoveMeDo/instantOutliner/Dewey.opml" /> 
+		<outline type="rss" text="US Census Department - Economic Indicators" xmlUrl="http://www.census.gov/briefrm/indicator.xml" />
+	</outline>
+  </body>
+</opml>

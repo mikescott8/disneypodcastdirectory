@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Web.Mvc;
+using System.Web.UI.WebControls;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using DisneyPodcastDirectory;
 using DisneyPodcastDirectory.Controllers;
@@ -35,7 +36,20 @@ namespace DisneyPodcastDirectory.Tests.Controllers
             ViewResult result = controller.About() as ViewResult;
 
             // Assert
-            Assert.AreEqual("Your application description page.", result.ViewBag.Message);
+            Assert.IsNotNull(result);
+        }
+
+        [TestMethod]
+        public void Updates()
+        {
+            // Arrange
+            HomeController controller = new HomeController();
+
+            // Act
+            ViewResult result = controller.Updates() as ViewResult;
+
+            // Assert
+            Assert.IsNotNull(result);
         }
 
         [TestMethod]

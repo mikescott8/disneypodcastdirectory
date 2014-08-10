@@ -1,0 +1,30 @@
+<opml version="1.1">
+	<head>
+		<title>dispoddirhighlights.opml</title>
+		<dateCreated>Fri, 20 Jul 2007 02:28:59 GMT</dateCreated>
+		<dateModified>Fri, 20 Jul 2007 02:29:20 GMT</dateModified>
+		<ownerName>Mike Hamilton</ownerName>
+		<ownerEmail>webmaster@disneypodcastdirectory.net</ownerEmail>
+		<expansionState></expansionState>
+		<vertScrollState>1</vertScrollState>
+		<windowTop>291</windowTop>
+		<windowLeft>588</windowLeft>
+		<windowBottom>631</windowBottom>
+		<windowRight>1194</windowRight>
+	</head>
+	<body>
+		<outline text="Highlighting Podcasts that have Disney episodes"/>
+		<outline text="Shows from Comedy4Cast (Added 7/20/2007)">
+			<outline text="DizPodDir Highlights Comedy4Cast's Disney Shows" type="rss" xmlUrl="http://www.podshow.com/collection/64924.xml"/>
+			<outline text="Comedy4Cast Website" type="link" htmlUrl="http://www.comedy4cast.com"/>
+		</outline>
+		<outline text="3 Ring Podcast Disneyland Soundseeing (Added 8/29/2007)">
+			<outline text="Disneyland Soundseeing from 3 Ring Podcast" type="rss" xmlUrl="http://www.podshow.com/collection/88652.xml"/>
+			<outline text="3 Ring Podcast Website" type="link" htmlUrl="http://www.3ringpodcast.com"/>
+		</outline>
+		<outline text="Mostly Trivial Disney Shows (Added 10/9/2007)">
+			<outline text="Mostly Disney Trivial" type="rss" xmlUrl="http://www.podshow.com/collection/135008.xml"/>
+			<outline text="Mostly Trivial Website" type="link" htmlUrl="http://www.mostlytrivial.com"/>
+		</outline>
+	</body>
+</opml>

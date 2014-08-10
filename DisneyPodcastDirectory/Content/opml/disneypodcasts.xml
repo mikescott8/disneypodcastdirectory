@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<opml version="1.1">
+	<head>
+		<title>disneypodcasts.xml</title>
+		<dateCreated>Fri, 20 Oct 2006 02:28:48 GMT</dateCreated>
+		<dateModified>Sat, 11 Nov 2006 18:14:52 GMT</dateModified>
+		<ownerName>Mike "MikeScott8" Hamilton</ownerName>
+		<ownerEmail>mike@mikescott8.net</ownerEmail>
+		<expansionState>1</expansionState>
+		<vertScrollState>7</vertScrollState>
+		<windowTop>89</windowTop>
+		<windowLeft>441</windowLeft>
+		<windowBottom>600</windowBottom>
+		<windowRight>1208</windowRight>
+		</head>
+	<body>
+		<outline text="Independent">
+			<outline text="Disney themed podcasts NOT produced by the Walt Disney Company"/>
+			<outline text="Disney Podcast Network" type="include" url="http://www.micemaps.net/dispoddir/opml/disneypodcastnetwork.xml"/>
+			<outline text="A Window To The Magic (Added 11/21/2005)">
+				<outline text="A WindowToTheMagic Podcast" type="rss" sortname="a windowtothemagic podcast" xmlUrl="http://pbarrie.libsyn.com/rss"/>
+				<outline text="WTTM24: A REAL-TIME DISNEY AUDIO ADVENTURE" type="rss" sortname="a windowtothemagic podcast wttm" xmlUrl="http://feeds.feedburner.com/wttm24"/>
+				<outline text="A WindowToTheMagic Video" type="rss" sortname="a windowtothemagic video" xmlUrl="http://pbarrie.libsyn.com/rss/VideoCast"/>
+        <outline text="A WindowToTheMagic: Videocast (Standard definition)" type="rss" sortname="a windowtothemagic videocast standard" xmlUrl="http://feeds.feedburner.com/wttmtv"/>
+				<outline text="Show Archives" type="link" htmlUrl="http://pbarrie.libsyn.com/"/>
+				<outline text="WindowToTheMagic.com Website" type="link" htmlUrl="http://www.windowtothemagic.com"/>
+				<outline text="Window To The Magic Store" type="link" htmlUrl="http://store.windowtothemagic.com"/>
+			</outline>
+			<outline text="Above The Firehouse (Added 6/7/2006)" type="rss" sortname="above the firehouse" xmlUrl="http://abovethefirehouse.libsyn.com/rss"/>
+			<outline text="The Adventures of a Teenage Disney Geek (Added 7/18/2007)">
+				<outline text="The Adventures of a Teenage Disney Geek Podcast" type="rss" sortname="adventures of a teenage disney geek" xmlUrl="http://teenagedisneygeek.libsyn.com/rss"/>
+				<outline text="The Adventures of a Teenage Disney Geek Website" type="link" htmlUrl="http://teenagedisneygeek.libsyn.com"/>
+			</outline>
+			<outline text="All About the Mouse (Added 4/22/2007)">
+				<outline text="All About the Mouse Podcast" type="rss" sortname="all about the mouse" xmlUrl="http://www.allaboutthemouse.com/themouse.xml"/>
+				<outline text="All About the Mouse Website" type="link" htmlUrl="http://www.allaboutthemouse.com/"/>
+			</outline>
+      <outline text="Asherella - The Super Princess (Added 2/7/2010)">
+        <outline text="Asherella - The Super Princess Feed" type="rss" sortname="asherella" xmlUrl="http://www.asherella.com/The_Super_Princess/asherellapodcast.xml"/>
+        <outline text="Asherella - The Super Princess Site" type="link" htmlUrl="http://www.asherella.com/"/>
+      </outline>
+			<outline text="Be Our Guest Podcast (Added 6/1/2008)">
+				<outline text="Be Our Guest Podcast Feed" type="rss" sortname="be out guest" xmlUrl="http://beourguestpodcast.podbean.com/feed/"/>
+				<outline text="Be Our Guest Podcast Website" type="link" htmlUrl="http://www.beourguestpodcast.com/"/>
+			</outline>
+			<outline text="Beyond Main Street (Added 11/21/2005)">
+				<outline text="Beyond Main Street Video" type="rss" sortname="beyond main street 01" xmlUrl="http://feeds.feedburner.com/BMSVidcast"/>
+				<outline text="Beyond Main Street Audio" type="rss" sortname="beyond main street 02" xmlUrl="http://feeds.feedburner.com/BeyondMainStreet"/>
+				<outline text="In Your Ears Experience" type="rss" sortname="beyond main street 03" xmlUrl="http://feeds.feedburner.com/InYourEarsExperience"/>
+				<outline text="BeyondMainStreet.com Website" type="link" htmlUrl="http://www.beyondmainstreet.com"/>
+				<outline text="In Your Ears Experience Website" type="link" htmlUrl="http://inyourearsexperience.blogspot.com"/>
+			</outline>
+			<outline text="The Big D Videocast (Added 4/27/2006)">
+				<outline text="The Big D Videocast" type="rss" sortname="big d videocast" xmlUrl="http://chreestopher.libsyn.com/rss"/>
+				<outline text="The Big D in HD Videocast" type="rss" sortname="big d in hd" xmlUrl="http://feeds.feedburner.com/TheBigDInHd"/>
+				<outline text="Single Rider" type="rss" sortname="big d single rider" xmlUrl="http://feeds.feedburner.com/TBD-SingleRider"/>
+				<outline text="TheBigDPodcast.com Website" type="link" htmlUrl="http://www.thebigdpodcast.com"/>
+			</outline>
+			<outline text="Bringing Disneyland Home (Added 2/18/2006)">
+				<outline text="Bringing Disneyland Home" type="rss" sortname="bringing disneyland home" xmlUrl="http://www.oakfan.com/BDHVodcast.xml"/>
+				<outline text="OakFan.com Website" type="link" htmlUrl="http://www.oakfan.com"/>
+			</outline>
+			<outline text="Character Breakfast (Added 4/21/2006)" type="rss" sortname="character breakfast" xmlUrl="http://feeds.feedburner.com/CharacterBreakfast"/>
+			<outline text="Communicore Online (Added 4/20/2009)">
+				<outline text="Communicore Online" type="rss" sortname="communicore" xmlUrl="http://feeds2.feedburner.com/Communicoreonline"/>
+				<outline text="Communicore Online Website" type="link" htmlUrl="http://www.communicoreonline.com/podcast.php"/>
+			</outline>
+      <outline text="DISCAST (Added 2/7/2010)">
+        <outline text="DISCAST Feed" type="rss" sortname="discast" xmlUrl="http://www.silvys.com/discast/index.php/feed/"/>
+        <outline text="DISCAST Site" type="link" htmlUrl="http://www.silvys.com/discast/"/>
+      </outline>
+			<outline text="Disneyland News Today (Added 3/8/2008)">
+				<outline text="Disneyland News Today" type="rss" sortname="disneyland news today" xmlUrl="http://dlnewstoday.com/wordpress/?feed=podcast"/>
+				<outline text="Disneyland News Today" type="link" htmlUrl="http://dlnewstoday.com/wordpress/"/>
+			</outline>
+      <outline text="Disneyman Podcast (Added 2/7/2010)">
+        <outline text="Disneyman Podcast Feed" type="rss" sortname="disneyman" xmlUrl="http://disneyman2000.libsyn.com/rss"/>
+        <outline text="Disneyman Podcast Site" type="link" htmlUrl="http://www.disneymanpodcast.com/"/>
+      </outline>
+      <outline text="A Disney Freak's Daring Journeys (Added 2/7/2010)">
+        <outline text="A Disney Freak's Daring Journeys Feed" type="rss" sortname="disney freaks daring journey" xmlUrl="http://dfdaringjourneys.libsyn.com/rss"/>
+        <outline text="A Disney Freak's Daring Journeys Site" type="link" htmlUrl="http://dfdaringjourneys.libsyn.com/"/>
+      </outline>
+      <outline text="Disney, Indiana Podcast (Added 12/7/2008)">
+        <outline text="Disney, Indiana Podcast" type="rss" sortname="disney indiana" xmlUrl="http://disneyindiana.libsyn.com/rss"/>
+        <outline text="Disney, Indiana Podcast Site" type="link" htmlUrl="http://www.disneyindiana.com/"/>
+        <outline text="Disney, Indiana Podcast Store" type="link" htmlUrl="http://www.printfection.com/disneyindiana"/>
+      </outline>
+      <outline text="Disney News Weekly (Added 4/27/2008)">
+				<outline text="Disney News Weekly" type="rss" sortname="disney news weekly" xmlUrl="http://dnwpodcast.dnwproductions.com/?feed=podcast"/>
+				<outline text="Disney News Weekly Site" type="link" htmlUrl="http://dnwpodcast.dnwproductions.com/"/>
+			</outline>
+			<outline text="Disney Adventure Video Podcast (Added 5/24/2006)" created="Thu, 25 May 2006 05:20:35 GMT" type="rss" sortname="disney adventure video podcast" xmlUrl="http://magicalparks.audioblog.com/rss/disneyadventurepodcast2006.xml"/>
+			<!--
+			<outline text="Disney and More Podcast (Added 11/4/2006)">
+				<outline text="Disney and More Podcast"  type="rss" sortname="disney and more podcast" xmlUrl="http://musicradio77.podomatic.com/rss2.xml"/>
+				<outline text="Disney and More Podcast Site" type="link" htmlUrl="http://musicradio77.podOmatic.com"/>
+				<outline text="Disney and More Videocast (Added 3/12/2007)"  type="rss" sortname="disney and more videocast" xmlUrl="http://99x.podomatic.com/rss2.xml"/>
+				<outline text="Disney and More Videocast Site" type="link" htmlUrl="http://99x.podOmatic.com"/>
+			</outline>
+			-->
+			<outline text="Disney Brit (Added 4/20/2009)">
+				<outline text="Disney Brit Podcast" type="rss" sortname ="disney brit" xmlUrl="http://disneybrit.podbean.com/feed/"/>
+				<outline text="Disney Brit Website" type="link" htmlUrl="http://www.disneybrit.com/"/>
+			</outline>
+			<outline text="Disney Channel 101 (Added 1/27/2007)">
+				<outline text="Disney Channel 101" type="rss" sortname="disney channel 101" xmlUrl="http://dc101podcast.podomatic.com/rss2.xml"/>
+				<outline text="Disney Channel 101" type="link" htmlUrl="http://dc101podcast.podomatic.com/"/>
+			</outline>
+			<outline text="Disney Channel Fans (Added 12/10/2006)">
+				<outline text="Disney Channel Fans" type="rss" sortname="disney channel fans" xmlUrl="http://disneyrocks.podomatic.com/rss2.xml"/>
+				<outline text="Disney Channel Fans Enhanced" type="rss" sortname="disney channel fans enhanced" xmlUrl="http://disneychannelfans.com/podcast/rss.xml"/>
+				<outline text="Disney Channel Fans Website" type="link" htmlUrl="http://www.disneychannelfans.com/"/>
+			</outline>
+			<outline text="Disney Channel Podcast with Derek and Eric (Added 9/23/2007)">
+				<outline text="Disney Channel Podcast with Derek and Eric Podcast" type="rss" sortname="disney channel podcast with derek and eric" xmlUrl="http://recordings.talkshoe.com/rss37497.xml"/>
+				<outline text="Disney Channel Podcast with Derek and Eric Website" type="link" htmlUrl="http://www.disneychannelpodcast.com"/>
+			</outline>
+			<outline text="Disney Dash Podcast (Added 5/3/2007)">
+				<outline text="Disney Dash Podcast" type="rss" sortname="disney dash" xmlUrl="http://feeds.feedburner.com/DisneyDash"/>
+				<outline text="Disney Dash Website" type="link" htmlUrl="http://www.disneydash.com/"/>
+			</outline>
+			<outline text="The Disney Dudes (Added 4/20/2009)">
+				<outline text="The Disney Dudes Feed" type="rss" sortname="disney dudes" xmlUrl="http://disneydudes.libsyn.com/rss"/>
+				<outline text="The Disney Dudes Website" type="link" htmlUrl="http://www.disneydudes.com/"/>
+			</outline>
+			<outline text="The Disney Fanatic Podcast (Added 6/21/2006)" created="Wed, 21 Jun 2006 18:03:41 GMT" type="rss" sortname="disney fanatic podcast" xmlUrl="http://feeds.feedburner.com/Disneyfanatic"/>
+			<outline text="The Disney Hub (Added 11/1/2006)" created="Thu, 02 Nov 2006 16:12:07 GMT" htmlUrl="http://www.freewebs.com/thedisneyhub" type="rss" sortname="disney hub" xmlUrl="http://linklewtt.podomatic.com/rss2.xml"/>
+			<outline text="The Disney News Weekly podcast (Added 11/20/2007)">
+				<outline text="The Disney News Weekly podcast" type="rss" sortname="disney news weekly" xmlUrl="http://disneynewsweekly.podOmatic.com/rss2.xml"/>
+				<outline text="The Disney News Weekly Website" type="link" htmlUrl="http://disneynewsweekly.podOmatic.com/"/>
+				<outline text="The Disney News Weekly Store" type="link" htmlUrl="http://www.printfection.com/disneynewsweekly"/>
+			</outline>
+			<outline text="Disney Pincast (Added 3/8/2008)">
+				<outline text="Disney Pin Cast" type="rss" sortname="disney pin cast" xmlUrl="http://wdwnewstoday.com/pincast/?feed=podcast"/>
+				<outline text="Disney Pin Cast Website" type="link" htmlUrl="http://wdwnewstoday.com/pincast/"/>
+			</outline>
+      <outline text="Disney Royal Ladies (Added 2/7/2010)">
+        <outline text="Disney Royal Ladies Feed" type="rss" sortname="disney royal lasies" xmlUrl="http://www.disneyroyalladies.libsyn.com/rss"/>
+        <outline text="Disney Royal Ladies Site" type="link" htmlUrl="http://www.disneyroyalladies.libsyn.com/"/>
+      </outline>
+			<outline text="Disney Tidbits by LRWH (Added 7/14/2008)">
+				<outline text="Disney Tidbits by LRWH Feed" type="rss" sortname="disney tidbits" xmlUrl="http://lrwh.libsyn.com/rss/tidbits"/>
+				<outline text="Disney Tidbits by LRWH Website" type="link" htmlUrl="http://lrwh.us/Disney_Tidbits.html"/>
+			</outline>
+			<outline text="Disney: Whenever...Forever (Added 6/1/2008)">
+				<outline text="Disney: Whenever...Forever Feed" type="rss" sortname="disney: whenever...forever" xmlUrl="http://disneywhenever.libsyn.com/rss"/>
+				<outline text="Disney: Whenever...Forever Website" type="link" htmlUrl="http://disneywhenever.com/"/>
+			</outline>
+			<outline text="Disney Vacation Photos (Added 7/14/2008)">
+				<outline text="Disney Vacation Photos Feed" type="rss" sortname="disney vacation photos" xmlUrl="http://feeds.feedburner.com/DVP"/>
+				<outline text="Disney Vacation Photos Site" type="link" htmlUrl="http://www.jermsworld.us/DVP"/>
+			</outline>
+			<outline text="The DIS Unplugged (Added 6/16/2006)" type="rss" sortname="dis unplugged" xmlUrl="http://www.wdwinfo.com/podcast/unplugged.xml"/>
+			<outline text="DIS-TV (Added 6/16/2006)" type="rss" sortname="dis tv" xmlUrl="http://www.wdwinfo.com/podcast/unplugged.xml"/>
+			<outline text="Dose-O-Disney (Added 05/24/2006)" created="Thu, 25 May 2006 05:15:46 GMT" type="rss" sortname="dose o disney" xmlUrl="http://feeds.feedburner.com/dose-o-disney"/>
+			<outline text="Dreamfinder Forever Disney and Theme Park Podcast (video) (Added 12/12/2006)">
+				<outline text="Dreamfinder Forever Disney and Theme Park Podcast" type="rss" sortname="dreamfinder forever" xmlUrl="http://jedimaster1227.podomatic.com/rss2.xml"/>
+				<outline text="Dreamfinder Forever Disney and Theme Park Podcast Website" type="link" htmlUrl="http://jedimaster1227.podomatic.com/"/>
+			</outline>
+			<outline text="Everything Disney Video (Added 11/1/2006)">
+				<outline text="Everything Disney Video New Feed" type="rss" sortname="everything disney video1" xmlUrl="http://edvp.podomatic.com/rss2.xml"/>
+				<outline text="Everything Disney Video Feed" type="rss" sortname="everything disney video2" xmlUrl="http://everythingdisneyvideopodcast.podomatic.com/rss2.xml"/>
+				<outline text="Everything Disney Video New Site" type="link" htmlUrl="http://edvp.podomatic.com" />
+				<outline text="Everything Disney Video Site" type="link" htmlUrl="http://everythingdisneyvideopodcast.podomatic.com" />
+			</outline> 
+			<outline text="Extinct Attractions Club Podcast (Added 2/18/2006)" created="Sat, 18 Feb 2006 14:50:08 GMT" type="rss" sortname="extinct attractions" xmlUrl="http://extinctattractions.libsyn.com/rss"/>
+			<outline text="Five Minute Magic (Added 4/27/2008)">
+				<outline text="Five Minute Magic" type="rss" sortname="five minute magic" xmlUrl="http://feeds2.feedburner.com/FiveMinuteMagic"></outline>
+				<outline text="Five Minute Magic" type="link" htmlUrl="http://web.mac.com/fiveminutemagic/FiveMinuteMagic/Five_Minute_Magic/Five_Minute_Magic.html"></outline>
+			</outline>
+			<outline text="Hannah Montana 101 (Added 1/27/2007)">
+				<outline text="Hannah Montana 101 Podcast" type="rss" sortname="hannah montana 101" xmlUrl="http://hannahmontana101.podomatic.com/rss2.xml"/>
+				<outline text="Hannah Montana 101 Website" type="link" htmlUrl="http://hannahmontana101.podomatic.com/"/>
+			</outline>
+			<outline text="Hannah Montana! (Added 9/11/2007)">
+				<outline text="Hannah Montana! podcast" type="rss" sortname="hannah montana!" xmlUrl="http://hannahmontanapodcast.mypodcast.com/rss.xml"/>
+				<outline text="Hannah Montana! Site" type="link" htmlUrl="http://hannahmontanapodcast.mypodcast.com/"/>
+			</outline>
+			<outline text="Holiday Road (Added 4/20/2009)">
+				<outline text="Holiday Road Podcast" type="rss" sortname ="holiday road" xmlUrl="http://www.holidayroad.net/blog/feed/podcast/"/>
+				<outline text="Holiday Road Website" type="link" htmlUrl="http://www.holidayroad.net/"/>
+			</outline>
+			<outline text="Imagineering My Way (Added 4/21/2006)">
+				<outline text="Imagineering My Way"  type="rss" sortname="imagineering my way" xmlUrl="http://imagineeringmyway.libsyn.com/rss"/>
+				<outline text="ImagineeringMyWay.com Website" type="link" htmlUrl="http://www.imagineeringmyway.com"/>
+				<outline text="Imagineering My Way Store" type="link" htmlUrl="http://www.cafepress.com/imw2"/>
+			</outline>
+			<outline text="Inside the DPN (Added 10/5/2006)">
+				<outline text="Inside the DPN" type="rss" sortname="inside the dpn" xmlUrl="http://www.dpn.markandmack.com/?feed=rss2"/>
+				<outline text="Inside the DPN Forum" type="link" htmlUrl="http://www.disneypodcastnet.com/viewforum.php?f=41"/>
+			</outline>
+			<outline text="Inside The Magic" type="rss" sortname="inside the magic" xmlUrl="http://feeds.feedburner.com/insidethemagic"/>
+			<outline text="It's a Great Big Beautiful Podcast (Added 6/7/2007)">
+				<outline text="It's a Great Big Beautiful Podcast" type="rss" sortname="it is a great big beautiful podcast" xmlUrl="http://jiminycrick91.libsyn.com/rss"/>
+				<outline text="It's a Great Big Beautiful Podcast Website" type="link" htmlUrl="http://www.freewebs.com/jiminycrick91/"/>
+			</outline>
+      <outline text="Keys to the Kingdom (Added 2/7/2010)">
+        <outline text="Keys to the Kingdom Feed" type="rss" sortname="keys to the kingdom" xmlUrl="http://feeds2.feedburner.com/ttradiokingdom"/>
+        <outline text="Keys to the Kingdom Site" type="link" htmlUrl="http://ttradiokingdom.blogspot.com/"/>
+      </outline>
+			<outline text="LaughingPlace.com Disney Podcast (Added 12/31/2005)" type="rss" sortname="laughingplace.com disney podcast" xmlUrl="http://www.laughingplace.com/files/XML/LPPodcast.xml"/>
+			<outline text="Let's talk about Disney, The happiest place on Earth!!" type="rss" sortname="lets talk about disney" xmlUrl="http://feeds.feedburner.com/ltadrss"/>
+			<outline text="Magic Never Ends (Added 7/20/2007)">
+				<outline text="Magic Never Ends Podcast Feed (podcast category posts only)" type="rss" sortname="magic never ends" xmlUrl="http://magicneverends.com/blog/category/podcast/feed"/>
+				<outline text="Magic Never Ends Blog Feed (includes all posts)" type="rss" sortname="magic never ends blog" xmlUrl="http://magicneverends.com/blog/feed/"/>
+				<outline text="Magic Never Ends Website" type="link" htmlUrl="http://magicneverends.com"/>
+			</outline>
+			<outline text="Magical Definition Podcast (Added 3/5/2007)">
+				<outline text="Magical Definition Podcast Feed" type="rss" sortname="magical definition" xmlUrl="http://www.magicaldefinition.com/md-disney-podcast.xml"/>
+				<outline text="Magical Definition Podcast Website" type="link" htmlUrl="http://www.magicaldefinition.com/"/>
+			</outline>
+			<outline text="Magical Vault Podcast (Added 5/3/2007)">
+				<outline text="Magical Vault Podcast" type="rss" sortname="magical vault" xmlUrl="http://magicalvault.libsyn.com/rss"/>
+				<outline text="Magical Vault MySpace Page" type="link" htmlUrl="http://www.myspace.com/themagicalvault"/>
+			</outline>
+			<outline text="The Meandering Mouse (Added 2/13/2006)">
+				<outline text="Meandering Mouse and Meandering Mouse Club TV-(AUDIO and VIDEO) Disney Park Fun" type="rss" sortname="meandering mouse 1" xmlUrl="http://www.meanderingmouse.com/rss.xml"/>
+				<outline text="Meandering Mouse Club TV Videocast" type="rss" sortname="meandering mouse 2" xmlUrl="http://www.meanderingmouse.com/rss2.xml"/>
+				<outline text="The Meandering Mouse Podcast - Disney Park Adventures (AUDIO ONLY)" type="rss" sortname="meandering mouse 3" xmlUrl="http://www.meanderingmouse.com/rss3.xml"/>
+				<outline text="MeanderingMouse.com Website" type="link" htmlUrl="http://www.meanderingmouse.com"/>
+			</outline>
+			<outline text="MiceCast (added 3/10/2006) WARNING: Not always family safe">
+				<outline text="MiceCast" type="rss" sortname="micecast" xmlUrl="http://feeds.feedburner.com/Micecast"/>
+				<outline text="MiceCast.com Website" type="link" htmlUrl="http://www.micecast.com"/>
+			</outline>
+			<outline text="Minions to the Mouse (Added 9/23/2007)">
+				<outline text="Minions to the Mouse" type="rss" sortname="minions to the mouse" xmlUrl="http://rss.mac.com/pdxbales/iWeb/Minions%20to%20the%20Mouse/Minions%20to%20the%20Mouse/rss.xml"/>
+				<outline text="Minions to the Mouse Website" type="link" htmlUrl="http://web.mac.com/pdxbales/iWeb/Minions%20to%20the%20Mouse/Minions%20to%20the%20Mouse/Minions%20to%20the%20Mouse.html"/>
+			</outline>
+			<outline text="The Mortis Matinee Podcast (Added 4/20/2009)">
+				<outline text="The Mortis Matinee Podcast Feed" type="rss" sortname="mortis matinee" xmlUrl="http://sviers.libsyn.com/rss"/>
+				<outline text="The Mortis Matinee Podcast Website" type="link" htmlUrl="http://www.themortis.com/"/>
+			</outline>
+			<oultine text="Mouse Comedy Podcast (Added 10/29/2007)">
+				<outline text="Mouse Comedy Podcast" type="rss" sortname="mouse comedy" xmlUrl="http://mousecomedy.libsyn.com/rss"/>
+				<outline text="Mouse Comedy Website" type="link" htmlUrl="http://www.mousecomedy.com"/>
+			</oultine>
+      <outline text="The Mouse Droppings Podcast (Added 2/7/2010)">
+        <outline text="The Mouse Droppings Podcast Feed" sortname="mouse droppings" xmlUrl="http://mousedroppings.libsyn.com/rss"/>
+        <outline text="The Mouse Droppings Podcast Site" type="link" htmlUrl="http://www.mousedroppingspodcast.com/"/>
+      </outline>
+			<outline text="Mouse Guest Weekly" type="rss" sortname="mouse guest weekly" xmlUrl="http://www.mouseguest.com/weekly"/>
+			<outline text="The Mouse Lounge Podcast (Added 8/16/2006)">
+				<outline text="The Mouse Lounge Podcast" type="rss" sortname="mouse lounge" xmlUrl="http://mouselounge.libsyn.com/rss"/>
+				<outline text="MouseLounge.com Website" type="link" htmlUrl="http://www.mouselounge.com"/>
+			</outline>
+			<outline text="Mouse Planet Podcasts (Added 1/8/2007)" >
+				<outline text="MouseStation / MousePlanetWatch Combined (Main) Feed" type="rss" sortname="mousestation1" xmlUrl="http://www.mouseplanet.com/rss/podcast_feed.xml"/>
+<!--
+				<outline text="MouseStation Only Feed" type="rss" sortname="mousestation2" xmlUrl="http://www.mouseplanet.com/rss/mousestation_feed.xml"/>
+				<outline text="MousePlanetWatch Only Feed" type="rss" sortname="mousestation3" xmlUrl="http://www.mouseplanet.com/rss/planetwatch_feed.xml"/>
+-->
+				<outline text="MousePlanet.com's Podcast Page" type="link" htmlUrl="http://www.mouseplanet.com/podcast"/>
+			</outline>
+			<outline text="MouseGeek (Added 1/13/2007)">
+				<outline text ="MouseGeek Podcast" type="rss" sortname="mousegeek" xmlUrl="http://mousegeekpodcast.podbean.com/feed/"/>
+				<outline text ="MouseGeek Podcast Website" type="link" htmlUrl="http://mousegeekpodcast.podbean.com"/>
+			</outline>
+			<outline text="Mouse Magic HD (Added 4/20/2008)">
+				<outline text="Mouse Magic HD" type="rss" sortname="mouse magic hd" xmlUrl="http://feeds2.feedburner.com/mousemagichd/"/>
+				<outline text="Mouse Magic HD (iPod)" type="rss" sortname="mouse magic hd ipod" xmlUrl="http://feeds2.feedburner.com/mousemagichd-ipod/"/>
+				<outline text="Mouse Magic HD Website" type="link" htmlUrl="http://www.mousemagichd.com/"/>
+			</outline>
+      <outline text="Mousetalgia (Added 12/7/2008)">
+        <outline text="Mousetalgia" type="rss" sortname="mousetalgia" xmlUrl="http://mousetalgia.libsyn.com/rss"/>
+        <outline text="Mousetalgia Site" type="link" htmlUrl="http://www.mousetalgia.com"/>
+      </outline>
+			<outline text="Mouse Talk (Added 11/1/2006)" created="Thu, 02 Nov 2006 16:12:07 GMT" htmlUrl="http://mousetalk.podomatic.com" type="rss" sortname="mouse talk" xmlUrl="http://mousetalk.podomatic.com/rss2.xml"/>
+			<outline text="Mouse Times Podcast Added (11/10/2006)">
+				<outline text="Mouse Times Podcast" type="rss" sortname="mouse times" xmlUrl="http://www.mousetimes.com/podcast.xml"/>
+				<outline text="MouseTimes.com Website" type="link" htmlUrl="http://www.mousetimes.com"/>
+			</outline>
+			<outline text="Mousin It Up - Big Brians Disney Page's podcast (Added 6/21/2006)">
+				<outline text="Mousin It Up - Big Brians Disney Page's podcast" type="rss" sortname="mousin it up" xmlUrl="http://bbdp.libsyn.com/rss"/>
+				<outline text="Mousin It Up - Big Brians Disney Page Site" type="link" htmlUrl="http://www.bigbrian-nc.com/podcast.htm"/>
+				<outline text="Mousin It Up Forums - Hosted by Lets Talk ABout Disney" type="link" htmlUrl="http://www.letstalkaboutdisney.com/LTADForum/forumdisplay.php?f=64"/>
+			</outline>
+			<outline text="Muppetcast (Added 4/22/2007)">
+				<outline text="Muppetcast Podcast" type="rss" sortname="muppetcast" xmlUrl="http://feeds.feedburner.com/TheMuppetcast"/>
+				<outline text="Muppetcast Website" type="link" htmlUrl="http://muppetcast.com/"/>
+			</outline>
+			<outline text="Netcot (Added 3/15/2006)">
+				<outline text="Netcot - iTunes/iPod Enhanced (Added 3/15/2006)" created="Thu, 16 Mar 2006 05:12:38 GMT" type="rss" sortname="netcot enhanced" xmlUrl="http://feeds.feedburner.com/netcot"/>
+				<outline text="Netcot Website" type="link" htmlUrl="http://www.netcot.com"/>
+			</outline>
+			<outline text="Northern Mouse Podcast (Added 12/12/2006)">
+				<outline text="Northern Mouse Podcast" type="rss" sortname="northern mouse" xmlUrl="http://northernmouse.libsyn.com/rss/"/>
+				<outline text="Northern Mouse Wesbite" type="link" htmlUrl="http://www.northernmousepodcast.com/"/>
+			</outline>
+			<outline text="Park Hopping Podcast/Vidcasts">
+				<outline text="Park Hopping Podcast" type="rss" sortname="park hopping" xmlUrl="http://feeds.feedburner.com/parkhopping"/>
+				<outline text="Park Hopping 3D Videocast (Added 12/30/2005)" type="rss" sortname="park hopping 3d video" xmlUrl="http://feeds.feedburner.com/parkhopping3d"/>
+				<outline text="Park Hopping Videocast (Added 05/03/2007)" type="rss" sortname="park hopping video" xmlUrl="http://feeds.feedburner.com/parkhoppingvideo"/>
+				<outline text="DisneyFans.com Website" type="link" htmlUrl="http://www.DisneyFans.com"/>
+			</outline>
+			<outline text="Pod Disney (Added 1/1/2008)">
+				<outline text ="Pod Disney Podcast Feed" type="rss" sortname="pod disney" xmlUrl="http://www.podisney.com/?feed=podcast"/>
+				<outline text ="Pod Disney Podcast Site" type="link" htmlUrl="http://www.podisney.com/"/>
+			</outline>
+			<outline text="The Q Podcast (Added 3/3/2007)">
+				<outline text="The Q Podcast feed" type="rss" sortname="q" xmlUrl="http://www.switchpod.com/users/haolebydesign/feed.xml"/>
+				<outline text="The Q Podcast site" type="link" htmlUrl="http://www.switchpod.com/p8222.html"/>
+			</outline>
+      <outline text="Running To Disney Podcast (Added 2/7/2010)">
+        <outline text="Running To Disney Podcast Feed" type="rss" sortname="running to disney" xmlUrl="http://shadwell.podbean.com/feed/"/>
+        <outline text="Running To Disney Podcast Site" type="link" htmlUrl="http://www.runtodisney.com/"/>
+      </outline>
+			<outline text="SaveDisneyShows.org Podcasting Network" created="Fri, 09 Sep 2005 01:17:14 GMT" type="rss" sortname="save disney shows" xmlUrl="http://savedisneyshows.org/podcasts/podcast.xml"/>
+			<outline text="Theme Park News and Views Radio Show (Added 1/17/2007)">
+				<outline text="Theme Park News and Views Radio Show Podcast" type="rss" sortname="theme park news and views radio show" xmlUrl="http://magicmousepodcast.com/?feed=rss2"/>
+				<outline text="Magic Mouse Website" type="link" htmlUrl="http://magicmousepodcast.com"/>
+			</outline>
+			<outline text="Trapped On Vaction (Added 10/05/2005)">
+				<outline text="Trapped On Vaction" type="rss" sortname="trapped on vacation" xmlUrl="http://tov.libsyn.com/rss"/>
+				<outline text="TrappedOnVacation.com Website" type="link" htmlUrl="http://www.trappedonvacation.com"/>
+			</outline>
+			<outline text="The Trip to Disney Podcast (Added 5/29/2007)">
+				<outline text="The Trip to Disney Podcast" type="rss" sortname="trip to disney" xmlUrl="http://zachspodcast.podbean.com/feed/"/>
+				<outline text="The Trip to Disney" type="link" htmlUrl="http://www.myspace.com/triptodisneypodcast"/>
+			</outline>
+			<outline text="Those Darn Cats (Added 6/1/2008)">
+				<outline text="Those Darn Cats Feed" type="rss" sortname="those darn cats" xmlUrl="http://tdc.libsyn.com/rss"/>
+				<outline text="Those Darn Cats Website" type="link" htmlUrl="http://thosedarncats.net/"/>
+			</outline>
+			<outline text="Thumpercast (Added 4/27/2008)">
+				<outline text="Thumpercast" type="rss" sortname="thumpercast" xmlUrl="http://thumpercast.libsyn.com/rss"/>
+				<outline text="Thumpercast Site" type="link" htmlUrl="http://thumpercast.libsyn.com/"/>
+			</outline>
+      <outline text="The Travelears (Added 12/7/2008)">
+        <outline text="The Travelears" type="rss" sortname="travelears" xmlUrl="http://feeds.feedburner.com/TheTravelears"/>
+        <outline text="The Travelears Site" type="link" htmlUrl="http://www.thetravelears.com"/>
+      </outline>
+      <outline text="Travel with Rick Vidcast (Added 2/7/2010)">
+        <outline text="Travel with Rick Vidcast Feed" type="rss" sortname="travel with rick" xmlUrl="http://travelwithrick.com/feed/"/>
+        <outline text="Travel with Rick Vidcast Site" type="link" htmlUrl="http://travelwithrick.com/"/>
+      </outline>
+      <outline text ="Visions Fantastic - Disneyland Source Podcast (Added 2/7/2010)">
+        <outline text="Visions Fantastic - Disneyland Source Podcast Feed" type="rss" sortname="visions fantastic" xmlUrl="http://www.visionsfantastic.com/forum/external.php?type=RSS2&amp;forumids=134"/>
+        <outline text="Visions Fantastic - Disneyland Source Podcast Site" type="link" htmlUrl="http://www.visionsfantastic.com/"/>
+      </outline>
+      <outline text="Waltcast (Added 2/7/2010)">
+        <outline text="Waltcast Feed" type="rss" sortname="waltcast" xmlUrl="http://waltcast.podbean.com/feed/"/>
+        <outline text="Waltcast Site" type="link" htmlUrl="http://waltcast.podbean.com/"/>
+      </outline>
+			<outline text="Walt Disney World Memories Podcast (Added 11/20/2006)" type="rss" sortname="walt disney world memories" xmlUrl="http://wdw-memories.podomatic.com/rss2.xml"/>
+			<outline text="The WDW Radio Show - Your Walt Disney World Information Station (Added 2/18/2007)">
+				<outline text="The WDW Radio Show - Your Walt Disney World Information Station" type="rss" sortname="wdw radio" xmlUrl="http://www.wdwradio.com/xml/wdwradio.xml"/>
+				<outline text="WDWRadio.com Website" type="link" htmlUrl="http://www.wdwradio.com"/>
+			</outline>
+			<outline text="WDW News Today (Added 9/11/2007)">
+				<outline text="WDW News Today Podcast" type="rss" sortname="wdw news today" xmlUrl="http://wdwnewstoday.com/blog/?feed=podcast"/>
+				<outline text="WDW News Today Website" type="link" htmlUrl="http://www.wdwnewstoday.com/"/>
+				<outline text="WDW News Store" type="link" htmlUrl="http://www.spreadshirt.com/shop.php?sid=129823"/>
+			</outline>
+			<outline text="WDWor Bust (Added 7/14/2008)">
+				<outline text="WDW or Bust Feed" type="rss" sortname="wdw or bust" xmlUrl="http://feeds.feedburner.com/wdworbust"/>
+				<outline text="WDW or Bust Website" type="link" htmlUrl="http://www.wdworbust.com"/>
+				<outline text="WDW or Bust Store" type="link" htmlUrl="http://www.cafepress.com/wdworbust"/>
+			</outline>
+			<outline text="WDW Today" created="Mon, 19 Sep 2005 12:04:28 GMT" type="rss" sortname="wdw today" xmlUrl="http://www.wdwtoday.com/showfeed.xml"/>
+			<outline text="WEDway Radio (Added 4/20/2009)">
+				<outline text="WEDway Radio Feed" type="rss" sortname="wedway radio" xmlUrl="http://www.switchpod.com/users/nateparrish/feed.xml"/>
+				<outline text="WEDway Radio Site" type="link" htmlUrl="http://www.wedwayradio.com/"/>
+			</outline>
+			<outline text="What If Labs (Added 1/27/2007)">
+				<outline text="What If Labs Podcast" type="rss" sortname="what if labs" xmlUrl="http://whatiflabs.podomatic.com/rss2.xml"/>
+				<outline text="What If Labs Website" type="link" htmlUrl="http://whatiflabs.podomatic.com/"/>
+			</outline>
+			<outline text="The World for One (Added 12/23/2007)">
+				<outline text="The World for One Podcast" type="rss" sortname="world for one" xmlUrl="http://www.worldforone.org/podcast/feed.xml"/>
+				<outline text="The World for One Website" type="link" htmlUrl="http://www.worldforone.org/"/>
+			</outline>
+			<outline text="Zip-A-Dee-Doo-Pod (Restarted 1/28/06, 9/12/07, 4/20/09)">
+				<outline text="Zip-A-Dee-Doo-Pod" type="rss" sortname="zipadeedoopod" xmlUrl="http://aaronspod.libsyn.com/rss"/>
+				<outline text="AaronWallaceOnline.com Website" type="link" htmlUrl="http://www.aaronwallaceonline.com/"/>
+			</outline>
+		</outline>
+		<outline text="Walt Disney Company">
+			<outline text="Podcasts that ARE produced by the Walt Disney Company"/>
+			<outline text="Park Based Podcasts" created="Wed, 10 Aug 2005 23:15:15 GMT">
+				<outline text="Podcasts that are focused on a park" created="Wed, 10 Aug 2005 23:16:07 GMT"/>
+				<outline text="Disneyland" created="Thu, 27 Apr 2006 15:54:28 GMT">
+					<outline text="Official Disneyland Resort Podcast" type="rss" sortname="official disneyland" xmlUrl="http://disneyland.disney.go.com/disneyland/en_US/rss/podcastFeed?pc=DLRPodcast"/>
+					</outline>
+				<outline text="Walt Disney World" created="Thu, 27 Apr 2006 16:02:00 GMT">
+					<outline text="Walt Disney World Resort: Plugged In" type="rss" sortname="walt disney world resort pluggedin" xmlUrl="http://disneyworld.disney.go.com/wdw/special/podcasts/podcastfeed?podcast=PluggedInPodcast"/>
+					</outline>
+				</outline>
+			<outline text="Ratatouille Video Podcast (Added 4/12/2007)" type="rss" sortname="ratatouille video podcast" xmlUrl="http://www.wdvision.com/podcast/feeds/7462820.xml"/>
+			<outline text="Cars Video Podcast (Added 6/16/2006)" created="Sat, 17 Jun 2006 04:58:39 GMT" type="rss" sortname="cars video" xmlUrl="http://disney.go.com/disneypictures/cars/podcasts/cars_video_podcast.xml"/>
+			<outline text="DCOM (Disney Channel Original Movie) Extras (Added 12/12/2006)" type="rss" sortname="disney channel original movie extras" xmlUrl="http://a.media.global.go.com/abccable/disneychannel/podcasts/dcom/rss-podcast.xml"/>
+			<outline text="Disney Cruise Line" created="Thu, 27 Apr 2006 15:41:50 GMT">
+				<outline text="Disney Cruise Line Podcast (Added 10/3/2007)" type="rss" sortname="disney cruise line podcast" xmlUrl="http://disneycruise.disney.go.com/dcl/en_US/podcasting/rss/rssFeed?name=DisneyCruiseLinePodcastRSSFeed"/>
+				<outline text="Disney Cruise Lines from dclnews.com (Added 4/27/2006)" created="Thu, 27 Apr 2006 15:41:59 GMT" type="rss" sortname="disney cruise lines" xmlUrl="http://www.dclnews.com/production/dclfeed.xml"/>
+			</outline>
+			<outline text="Disney UK" created="Thu, 25 May 2006 05:12:22 GMT">
+				<outline text="Buena Vista International (UK) Official Podcast" created="Thu, 09 Feb 2006 17:50:35 GMT" type="rss" sortname="buena vista international" xmlUrl="http://www.wired.uk.com/bvimovies_enhanced.xml"/>
+				<outline text="Capital Disney Podcast (Added 05/24/2006)" created="Thu, 25 May 2006 05:12:44 GMT" type="rss" sortname="capital disney" xmlUrl="http://radiouser.net/podcasts/podfeed2.php?stationid=1&amp;podid=1"/>
+				</outline>
+			<outline text="Disney Insider" type="rss" sortname="disney insider" xmlUrl="http://disney.go.com/music/podcasts/disney_insider.xml"/>
+			<outline text="Disney DVD News (Added 4/27/2005)" created="Thu, 27 Apr 2006 16:45:15 GMT" type="rss" sortname="disney dvd news" xmlUrl="http://disney.go.com/disneyvideos/podcasts/disney_dvd_news.xml"/>
+			<outline text="FamilyFun TV - VIDEO" type="rss" sortname="familyfun tv" xmlUrl="http://familyfun.go.com/Resources/global/fftv-archive/podcasts/feed.xml?CMP=BAC-PR0795733213"/>
+			<outline text="Henson.com Official Podcast (Added 5/29/2007)">
+				<outline text="Henson.com Official Podcast" type="rss" sortname="henson.com official podcast" xmlUrl="http://henson.com/podcast/rss.xml" />
+				<outline text="Henson.com Official Website" type="link" htmlUrl="http://henson.com/" />
+			</outline>
+			<outline text="Last Minute Book Reports" type="rss" sortname="last minute booke reports" xmlUrl="http://disney.go.com/music/podcasts/last_minute_book_reports.xml"/>
+			<outline text="Movie Surfers (Added 10/05/2005)" created="Wed, 05 Oct 2005 12:01:26 GMT" type="rss" sortname="movie surfers" xmlUrl="http://disney.go.com/disneypictures/moviesurfers/podcasts/disneys_movie_surfers.xml"/>
+			<outline text="Radio Disney Now!" created="Fri, 09 Sep 2005 01:04:19 GMT" type="rss" sortname="radio disney now" xmlUrl="http://radio.disney.go.com/podcasts/radio_disney_now.xml"/>
+			<outline text="Shorty McShort's Shorts (Added 12/12/2006)" type="rss" sortname="shorty mcshorts shorts" xmlUrl="http://a.media.global.go.com/abccable/disneychannel/podcasts/shortymcshorts/rss-podcast.xml"/>
+			<outline text="Statler &amp; Waldorf: From the Balcony (Added 5/24/2006)" created="Thu, 25 May 2006 05:24:00 GMT" type="rss" sortname="statler and waldorf" xmlUrl="http://a.movies.com/xml/rss/podcasts/muppets.xml"/>
+			<outline text="The Gears Behind the Ears" type="rss" sortname="gears behind the ears" xmlUrl="http://disney.go.com/music/podcasts/gears_behind_the_Ears.xml"/>
+			<outline text="They Might Be Giants Friday Night Family Podcast (Added 4/27/2008)">
+				<outline text="They Might Be Giants Friday Night Family Podcast" type="rss" sortname="they might be giants friday night family podcast" xmlUrl="http://feeds.feedburner.com/theymightbegiants"/>
+				<outline text="They Might Be Giants Friday Night Family Podcast SITE" type="link" htmlUrl="http://disneymusic.disney.go.com/albums/tmbg123s.html"/>
+			</outline>
+		</outline>
+		<outline text="Extinct Podcasts">
+			<outline text="These are podcasts that have stopped producing new shows"/>
+			<outline text="In podcasting this is called podfading, but that is mostly used to refer to podcasts that just stop putting out new shows without annoucing the podcast was ending."/>
+			<outline text="Extinct Podcast List" type="include" url="http://www.micemaps.net/dispoddir/opml/extinctpodcasts.xml"/>
+		</outline>
+	</body>
+	</opml>

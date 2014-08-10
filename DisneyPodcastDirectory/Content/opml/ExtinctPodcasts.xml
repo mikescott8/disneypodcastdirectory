@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<opml version="1.1">
+	<head>
+		<title>extinctdisneypodcasts.opml</title>
+		<dateCreated>Fri, 20 Oct 2006 02:28:59 GMT</dateCreated>
+		<dateModified>Wed, 23 Oct 2008 02:29:20 GMT</dateModified>
+		<ownerName>Mike "MikeScott8" Hamilton</ownerName>
+		<ownerEmail>mike@mikescott8.net</ownerEmail>
+		<expansionState></expansionState>
+		<vertScrollState>1</vertScrollState>
+		<windowTop>291</windowTop>
+		<windowLeft>588</windowLeft>
+		<windowBottom>631</windowBottom>
+		<windowRight>1194</windowRight>
+	</head>
+	<body>
+		<outline text="Bare Necessities (Added 11/21/2006)" type="rss" sortname="" xmlUrl="http://feeds.feedburner.com/BN"/>
+		<outline text="The BritMouse Podcast (Added 7/14/2008)">
+			<outline text="The BritMouse Podcast Feed" type="rss" sortname="britmouse podcast" xmlUrl="http://www.britmouse.com/podcast.xml"/>
+			<outline text="The BritMouse Podcast Site" type="link" htmlUrl="http://www.britmouse.com/"/>
+			<outline text="The BritMouse Podcast Store" type="link" htmlUrl="http://www.britmouse.com/store.htm"/>
+		</outline>
+		<outline text="The Brooklyn Mouse (Added 9/23/2007)">
+			<outline text="The Brooklyn Mouse" type="rss" sortname="" xmlUrl="http://thenew66nbc.podomatic.com/rss2.xml"/>
+			<outline text="The Brooklyn Mouse Videocast (Added 10/29/2007)"  type="rss" sortname="" xmlUrl="http://99x.podomatic.com/rss2.xml"/>
+			<outline text="The Brooklyn Mouse Website" type="link" hmlUrl="http://thenew66nbc.podomatic.com/"/>
+		</outline>
+		<outline text="Burnsland.com Disney Railroads Report (Added 5/24/2006)" type="rss" sortname="" xmlUrl="http://www.burnsland.com/podcast/disneyrailroadsreport.xml"/>
+		<outline text="Cast Member Informer (Added 10/30/2006)" type="rss" sortname="" xmlUrl="http://www.cmiradio.info/files/CMI_XS.xml" htmlUrl="http://www.cmiradio.info/"/>
+		<outline text="Crash Cousins (Added 1/17/2007)">
+			<outline text="Crash Cosuins Podcast" type="rss" sortname="" xmlUrl="http://crashcousins.libsyn.com/rss"/>
+			<outline text="Crash Cousins Website" type="link" htmlUrl="http://crashcousins.libsyn.com"/>
+		</outline>
+		<outline text="D-History (Added 4/22/2007)">
+			<outline text="D-History Podcast" type="rss" sortname="" xmlUrl="http://disneyhistory.podOmatic.com/rss2.xml"/>
+			<outline text="D-History Website" type="link" htmlUrl="http://disneyhistory.podOmatic.com/"/>
+		</outline>
+		<outline text="Detailsbybill's Podcast" type="rss" sortname="" xmlUrl="http://detailsbybill.libsyn.com/rss"/>
+		<outline text="Disney Resorts Podcast (Added 11/10/2006)" type="rss" sortname="" xmlUrl="http://disneyresortspod.podomatic.com/rss2.xml"/>
+		<outline text="DisneyHD (Re-Added 6/21/2006)" type="rss" sortname="" xmlUrl="http://rss.mac.com/joseveber/iWeb/DisneyHD%20Podcast/DisneyHD/rss.xml"/>
+		<outline text="Disneyland Videos" type="rss" sortname="" xmlUrl="http://rss.mac.com/jaysaugus/iWeb/Disneyland%20Videos/Podcast/rss.xml"/>
+		<outline text="Everything Disney's Daily Dose of Disney (Added 6/16/2007)">
+			<outline text="Everything Disney's Daily Dose of Disney" type="rss" sortname="" xmlUrl="http://edddod.podOmatic.com/rss2.xml"/>
+			<outline text="Everything Disney's Daily Dose of Disney Site" type="link" htmlUrl="http://edddod.podOmatic.com/"/>
+		</outline>
+		<outline text="Everything Disney (Added 11/1/2006)" created="Thu, 02 Nov 2006 16:12:07 GMT" htmlUrl="http://everythingdisney.podomatic.com" type="rss" sortname="everything disney" xmlUrl="http://everythingdisney.podomatic.com/rss2.xml"/>
+		<outline text="Everything Disney Resorts (Added 11/4/2006)" created="Sat, 04 Nov 2006 18:10:35 GMT" htmlUrl="http://everythingdisneyresorts.podOmatic.com" type="rss" sortname="everything disney resorts" xmlUrl="http://everythingdisneyresorts.podomatic.com/rss2.xml"/>
+		<outline text="Fantasmarificast (Added 11/18/2006)" type="rss" sortname="fantasmarificast" xmlUrl="http://fantasmarificast.podOmatic.com/rss2.xml"/>
+		<outline text="Jungle Cruise News (Added 11/1/2006)" created="Thu, 02 Nov 2006 16:12:07 GMT" htmlUrl="http://disneynews.podomatic.com/rss2.xml" type="rss" sortname="" xmlUrl="http://disneynews.podomatic.com/rss2.xml"/>
+		<outline text="Kingdom Herald (added 2/10/2006)" created="Fri, 10 Feb 2006 16:30:02 GMT" type="rss" sortname="" xmlUrl="http://feeds.feedburner.com/kingdomherald"/>
+		<outline text="Magical Moment Podcast (Added 8/14/2006)" created="Tue, 15 Aug 2006 02:45:42 GMT" type="rss" sortname="" xmlUrl="http://magicalmomentpodcast.com/rss2.aspx"/>
+		<outline text="The Mickey Room (Added 8/15/2006)">
+			<outline text="The Mickey Room" type="rss" sortname="mickey room" xmlUrl="http://www.themickeyroom.libsyn.com/rss"/>
+			<outline text="The Mickey Room Website" type="link" htmlUrl="http://www.themickeyroom.com"/>
+		</outline>
+		<outline text="The MousePod">
+			<outline text="The Mousepod" type="rss" sortname="" xmlUrl="http://mousepod.com/feed/"/>
+			<outline text="The Mousepod Website" type="link" htmlUrl="http://www.mousepod.com"/>
+		</outline>
+		<outline text="MouseTips Podcast (Added 12/12/2006)">
+			<outline text="MouseTips Podcast" type="rss" sortname="" xmlUrl="http://feeds.feedburner.com/mousetipsspodcast"/>
+			<outline text="MouseTips Podcast Website" type="link" htmlUrl="http://podcast.eddigital.net/"/>
+		</outline>
+		<outline text="Mouse | Tunes" type="rss" sortname="" xmlUrl="http://www.magicalmountain.net/xml/mousetunes.xml"/>
+		<outline text="Netcot - UN Enhanced MP3 (Added 7/9/2006)" created="Mon, 10 Jul 2006 04:19:52 GMT" type="rss" sortname="" xmlUrl="http://feeds.feedburner.com/netcot-unenhanced"/>
+		<outline text="Pure Magic Podcasts" type="rss" sortname="" xmlUrl="http://breathenomore.org/podcasts/puremagic.xml"/>
+    <outline text="Radio Pixar (Added 10/30/2006)">
+      <outline text="Radio Pixar Feed" type="rss" sortname="radio pixar" xmlUrl="http://pixarplanet.podomatic.com/rss2.xml"/>
+      <outline text="Radio Pixar Site" type="link" htmlUrl="http://pixarplanet.com/radiopixar"/>
+    </outline>
+    <outline text="Travel Girl's Tips for Disney World (Added 7/14/2008)" >
+      <outline text="Travel Girl's Tips for Disney World Feed" type="rss" sortname="travel girls tips for disney world" xmlUrl="http://speedplanner.podbean.com/feed/"/>
+      <outline text="Travel Girl's Tips for Disney World Site" type="link" htmlUrl="http://speedplanner.podbean.com/"/>
+    </outline>
+    <outline text="Unofficial Vacation Magic Podcast (Added 6/1/2008)">
+      <outline text="Unofficial Vacation Magic Podcast Feed" type="rss" sortname="unofficial vacation magic" xmlUrl="http://podcast.uvmpodcast.com/feed/"/>
+      <outline text="Unofficial Vacation Magic Podcast Site" type="link" htmlUrl="http://www.uvmpodcast.com/"/>
+    </outline>
+    <outline text="Walt's Girls (Added 10/28/2007)">
+			<outline text="Walt's Girls Podcast" type="rss" sortname="walts girls" xmlUrl="http://waltsgirls.com/podcasts-only/rss2.aspx"/>
+			<outline text="Walt's Girls Site" type="link" htmlUrl="http://www.waltsgirls.com/"/>
+		</outline>
+    <outline text="WDW Mic'd Up (Added 7/14/2008)">
+      <outline text="WDW Mic'd Up Feed" type="rss" sortname="wdw miked up" xmlUrl="http://wdwmicdup.dnwproductions.com/?feed=rss2"/>
+      <outline text="WDW Mic'd Up Site" type="link" htmlUrl="http://wdwmicdup.dnwproductions.com/"/>
+    </outline>
+  </body>
+</opml>
