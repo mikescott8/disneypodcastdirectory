@@ -3,26 +3,28 @@
     ViewBag.Message = "A quick rundown of change log to the site over it's history.";
 }
 
-<div class="row">
-    <div class="col-md-1 col-md-offset-1">
-        <strong>08/10/2014</strong>
+<div class="list-group">
+    <div class="list-group-item">
+        <div class="list-group-item-heading">
+            <strong>08/10/2014</strong>
+        </div>
+        <div class="list-group-item-text">
+            The changes today were some minor cleanup of things missed during rush to get the initial V2 up and posted.
+            Also includes starting the change log for V2 of the site. Also added the OPML files that the V1 used to store
+            all the podcasts listed on the site. The display of this information is the next <em>planned</em> item to get
+            added to the site. But might move up the cleanup of the data ahead of the display.
+        </div>
     </div>
-    <div class="col-md-8">
-        The changes today were some minor cleanup of things missed during rush to get the initial V2 up and posted.
-        Also includes starting the change log for V2 of the site. Also added the OPML files that the V1 used to store
-        all the podcasts listed on the site. The display of this information is the next <em>planned</em> item to get
-        added to the site. But might move up the cleanup of the data ahead of the display.
-    </div>
-</div>
-<div class="row">
-    <div class="col-md-1 col-md-offset-1">
-        <strong>08/09/2014</strong>
-    </div>
-    <div class="col-md-8">
-        This is the inital post of the V2 of the site. This was not widely publicized at the time, so wasn't
-        a major release yet. It is was the base site and a few pages ported over from the V1 of the site. The
-        pages that were in this release were: @Html.ActionLink("Home", "Home", "Home"), @Html.ActionLink("Updates", "Updates", "Home"),
-        @Html.ActionLink("About", "About", "Home"), @Html.ActionLink("Contact", "Contact", "Home")
+    <div class="list-group-item">
+        <div class="list-group-item-heading">
+            <strong>08/09/2014</strong>
+        </div>
+        <div class="list-group-item-text">
+            This is the inital post of the V2 of the site. This was not widely publicized at the time, so wasn't
+            a major release yet. It is was the base site and a few pages ported over from the V1 of the site. The
+            pages that were in this release were: @Html.ActionLink("Home", "Home", "Home"), @Html.ActionLink("Updates", "Updates", "Home"),
+            @Html.ActionLink("About", "About", "Home"), @Html.ActionLink("Contact", "Contact", "Home")
+        </div>
     </div>
 </div>
 <hr/>
