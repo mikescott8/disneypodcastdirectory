@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisneyPodcastDirectory", "D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisneyPodcastDirectory.Tests", "DisneyPodcastDirectory.Tests\DisneyPodcastDirectory.Tests.csproj", "{37B2F3C7-8408-4E1C-BB76-02137B52C46F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeedLister", "..\FeedLister\src\FeedLister\FeedLister.csproj", "{385DDE59-D6F0-40BC-8CE4-82CBBAEBE9BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{37B2F3C7-8408-4E1C-BB76-02137B52C46F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37B2F3C7-8408-4E1C-BB76-02137B52C46F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37B2F3C7-8408-4E1C-BB76-02137B52C46F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{385DDE59-D6F0-40BC-8CE4-82CBBAEBE9BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{385DDE59-D6F0-40BC-8CE4-82CBBAEBE9BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{385DDE59-D6F0-40BC-8CE4-82CBBAEBE9BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{385DDE59-D6F0-40BC-8CE4-82CBBAEBE9BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
